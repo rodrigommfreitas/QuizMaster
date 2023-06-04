@@ -40,3 +40,13 @@ npm run dev
 ```
 
 Now you can register some users and have fun!
+
+## Showcase:
+
+![Login](https://raw.githubusercontent.com/rodrigommfreitas/QuizMaster/main/preview/login.png)
+![Home](https://raw.githubusercontent.com/rodrigommfreitas/QuizMaster/main/preview/home.png)
+![Lobby](https://raw.githubusercontent.com/rodrigommfreitas/QuizMaster/main/preview/lobby.png)
+![Voting](https://raw.githubusercontent.com/rodrigommfreitas/QuizMaster/main/preview/voting.png)
+![Quiz](https://raw.githubusercontent.com/rodrigommfreitas/QuizMaster/main/preview/game.png)
+
+###### If you clone this repository you can always delete the "preview" folder as it only contains some preview images.
