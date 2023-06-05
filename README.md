@@ -41,7 +41,7 @@ npm run dev
 
 Now you can register some users and have fun!
 
-## Showcase:
+## Showcase
 
 ![Login](https://raw.githubusercontent.com/rodrigommfreitas/QuizMaster/main/preview/login.png)
 ![Home](https://raw.githubusercontent.com/rodrigommfreitas/QuizMaster/main/preview/home.png)
